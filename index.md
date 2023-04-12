@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Hier ist mein Reiseplan 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 My_Title](/sample_page)
+<img src="images/IMG_6025.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Hier sind die Eindrücke meiner Reise
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
